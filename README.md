@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChoudharyRamesh
-- 👀 I’m interested in Qt-C++,Flutter Dev
+- 👀 I’m interested in Qt/Qml dev
 - 💞️ I’m looking to collaborate on Qt development
 - 📫 How to reach me 
   https://www.instagram.com/itssnishiii/
